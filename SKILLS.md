@@ -16,7 +16,7 @@
 | 🟩 heap              | 🟩 for                | 🟩 lambda             | 🟩 stack            | 🟩 complexity        |
 | 🟩 type              | 🟩 for..in            | 🟩 side effects       | 🟦 deque            | 🟩 decomposition     |
 | 🟩 primitive types   | 🟩 for..of            | 🟩 closure            | 🟦 serialization    | ⬜️ spaghetti         |
-| 🟩 reference         | 🟨 for await          | 🟦 partial            | 🟩 mixin, extend    | ⬜️ silver bullet     |
+| 🟩 reference         | 🟩 for await          | 🟦 partial            | 🟩 mixin, extend    | ⬜️ silver bullet     |
 | 🟩 flag              | 🟩 throw              | 🟩 curry              | 🟩 iterator         | ⬜️ not invented here |
 | 🟩 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟨 typed arrays     | 🟩 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟩 unreachable code  |
@@ -62,7 +62,7 @@
 | Async contracts        | JavaScript & Node.js specific  | Theory              | Techniques               |
 |------------------------|--------------------------------|---------------------|--------------------------|
 | 🟦 Callback-last       | 🟦 Timers                      | 🟩 Event Loop       | ⬜ async.js library      |
-| 🟦 Error-first         | 🟦 setImmediate                | 🟩 Async error      | ⬜ Async composition     |
+| 🟦 Error-first         | 🟦 setImmediate                | 🟦 Async error      | ⬜ Async composition     |
 | 🟩 Promise             | 🟦 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
 | 🟩 Async function      | ⬜ AbortController             | 🟦 Non-blocking     | 🟦 Sequential async      |
 | 🟩 await               | 🟦 Promise unhandled rejection | 🟦 Async I/O        | 🟦 Parallel async        |
