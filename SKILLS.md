@@ -36,7 +36,7 @@
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟩 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟦 Singleton             |
+| 🟩 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟩 Singleton             |
 | 🟩 Imperative programming      | 🟩 new                | ⬜ Mutable state     |                          |
 | 🟩 Structured programming      | 🟩 Static method      | ⬜ Immutable state   |                          |
 | 🟩 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
