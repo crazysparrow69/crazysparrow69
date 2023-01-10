@@ -18,7 +18,7 @@
 | 🟩 primitive types   | 🟩 for..of            | 🟩 closure            | 🟩 serialization    | ⬜️ spaghetti         |
 | 🟩 reference         | 🟩 for await          | 🟩 partial            | 🟩 mixin, extend    | ⬜️ silver bullet     |
 | 🟩 flag              | 🟩 throw              | 🟩 curry              | 🟩 iterator         | ⬜️ not invented here |
-| 🟩 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟨 typed arrays     | 🟩 dead code         |
+| 🟩 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟩 typed arrays     | 🟩 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟩 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟩 duplicate code    |
 | 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
