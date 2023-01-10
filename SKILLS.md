@@ -54,8 +54,8 @@
 | 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟩 Async Iterator    |                          |
 | 🟩 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
 | ⬜ Metaprogramming             | 🟩 instance           |                      |                          |
-| ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
-|                                | ⬜ Reflection         |                      |                          |
+| ⬜ Actor model                 | 🟩 Introspection      |                      |                          |
+|                                | 🟩 Reflection         |                      |                          |
 
 ## Asynchronous programming
 
