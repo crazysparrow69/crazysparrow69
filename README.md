@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@crazysparrow18](https://telegram.me/crazysparrow18)</code>
+<code>💬 telegram: [@crazysparrow19](https://telegram.me/crazysparrow18)</code>
 <code>📫 [denissytnikmacho@gmail.com](mailto:denissytnikmacho@gmail.com)</code>
