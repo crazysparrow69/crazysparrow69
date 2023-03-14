@@ -32,6 +32,40 @@
 | 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
 
+###  React
+
+| Main concepts                | hooks             | environment               |
+| ---------------------------- | ----------------- | ------------------------- |
+| 🟩 JSX                        | 🟩 useState     | 🟩 React Router          |
+| 🟩 Virtual DOM                | 🟩 useEffect    | 🟩 React-Redux           |
+| 🟩 Functional component       | 🟩 useReducer   | 🟩 React Dom             |
+| 🟩 Class component            | 🟩 useContext   | 🟩 Redux Thunk           |
+| 🟩 Dumb component             | 🟩 useRef       | 🟩 Redux Final Form      |
+| 🟩 Smart component            | 🟩 useCallback  | 🟩 Formik                |
+| 🟩 Rendering a component      | 🟩 useMemo      | 🟩 Babel                 |
+| 🟩 Props                      | 🟩 Custom Hooks | 🟩 Sass                  |
+| 🟩 State                      |                 | 🟩 Webpack               |
+| 🟩 Composing components       |                 | 🟩 Hook form             |
+| 🟩 Extracting components      |                 | 🟩 React DevTools        |
+| 🟩 Components lifecycle       |                 | 🟩 Redux DevTools        |
+| 🟩 Conditional rendering      |                 | 🟩 Jest                  |
+| 🟩 The Data Flows Down        |                 | 🟩 React Testing Library |
+| 🟩 Handling Events            |                 | 🟩 Reselect              |
+| 🟩 Lifting State Up           |                 |                         |
+| 🟩 Code-Splitting             |                 |                         |
+| 🟩 React.lazy                 |                 |                         |
+| 🟩 Suspense and fallbacks     |                 |                         |
+| 🟩 React Context              |                 |                         |
+| 🟩 Context.Provider           |                 |                         |
+| 🟩 Context.Consumer           |                 |                         |
+| 🟩 Error Boundaries           |                 |                         |
+| 🟩 Refs                       |                 |                         |
+| 🟩 Forwarding refs            |                 |                         |
+| 🟩 Fragments                  |                 |                         |
+| 🟩 Higher-Order Components    |                 |                         |
+| 🟩 Portals                    |                 |                         |
+| 🟩 Uncontrolled Components    |                 |                         |
+
 ## Multi-paradigm programming
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
