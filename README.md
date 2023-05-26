@@ -34,3 +34,9 @@
   <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/512px-Icons8_flat_linux.svg.png?20170610200026">
   <img width="58" src="https://logowik.com/content/uploads/images/301_docker.jpg">
 </div>
+
+### Contact with me:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/crazysparrow19)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ss_denchik19_ss)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=FF0000)](mailto:denissytnikmacho@gmail.com)
