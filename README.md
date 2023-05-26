@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-Dimdim28&color=blue)
+![](https://komarev.com/ghpvc/?username=your-github-crazysparrow69&color=blue)
 
 <br>
 <code>🎓 Student: KPI</code>
