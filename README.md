@@ -33,6 +33,7 @@
   <img width="58" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png">
   <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/512px-Icons8_flat_linux.svg.png?20170610200026">
   <img width="58" src="https://logowik.com/content/uploads/images/301_docker.jpg">
+  <img width="58" src="https://w7.pngwing.com/pngs/47/318/png-transparent-graphql-playground-macos-bigsur-icon.png">
 </div>
 
 ### Contact with me:
