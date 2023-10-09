@@ -17,7 +17,7 @@
 ### :books:Languages: 
 
 <div class="row">
-  <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
+  <img width="58" src="https://skillicons.dev/icons?i=all">
   <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">    
   <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"> 
 </div>
