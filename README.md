@@ -22,6 +22,8 @@
   <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"> 
 </div>
 
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+
 ### :gear:Tech stack:
 <div class="row">
   <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png">
