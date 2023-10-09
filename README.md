@@ -19,7 +19,7 @@
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ### :gear:Tech stack:
-[![SkillIcons](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=nodejs,reactjs)](https://skillicons.dev)
 
 ### Contact with me:
 
