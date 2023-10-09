@@ -16,12 +16,6 @@
 
 ### :books:Languages: 
 
-<div class="row">
-  <img width="58" src="https://skillicons.dev/icons?i=all">
-  <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">    
-  <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"> 
-</div>
-
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ### :gear:Tech stack:
