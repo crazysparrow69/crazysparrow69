@@ -3,7 +3,7 @@
 <br>
 <code>🎓 Student: KPI</code>
 <code>🎪 Group: IM-13</code>
-<code>👷 Speciality: Software engineer / Back-end </code>
+<code>👷 Speciality: Software engineer / Full-stack </code>
 <code>💡<a href="SKILLS.md">skills</a></code>  
 <code>💻<a href="PROJECTS.md">projects</a></code> 
 <br><br>
