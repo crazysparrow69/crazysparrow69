@@ -19,18 +19,7 @@
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ### :gear:Tech stack:
-<div class="row">
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png">
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/nodejs_plain_logo_icon_146409.png">
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png">
-  <img width="58" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png">
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/npm_original_wordmark_logo_icon_146402.png">   
-  <img width="58" src="https://res.cloudinary.com/dyyck73ly/image/upload/s3/Mar/mongodb-leaf_euorgb_ntcsqk.png">
-  <img width="58" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png">
-  <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/512px-Icons8_flat_linux.svg.png?20170610200026">
-  <img width="58" src="https://logowik.com/content/uploads/images/301_docker.jpg">
-  <img width="58" src="https://w7.pngwing.com/pngs/47/318/png-transparent-graphql-playground-macos-bigsur-icon.png">
-</div>
+[![SkillIcons](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### Contact with me:
 
