@@ -21,7 +21,7 @@
 ### Tech stack:
 [![SkillIcons](https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,jest,mongodb,mysql,html,css,react,redux,git,github,githubactions,linux,docker)](https://skillicons.dev)
 
-### Contact with me:
+### Contact me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/crazysparrow19)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ss_denchik20_ss)
