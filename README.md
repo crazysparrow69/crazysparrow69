@@ -14,11 +14,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crazysparrow69&theme=juicyfresh" alt="crazysparrow69" /></a> </p>
 
-### :books:Languages: 
+### Languages: 
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
-### :gear:Tech stack:
+### Tech stack:
 [![SkillIcons](https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,jest,mongodb,mysql,html,css,react,redux,git,github,githubactions,linux,docker)](https://skillicons.dev)
 
 ### Contact with me:
